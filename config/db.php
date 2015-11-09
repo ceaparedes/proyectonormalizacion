@@ -2,8 +2,8 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'sqlsrv:Server=VÍCTOR-PC;Database=Normalizacion',
-    'username' => '',
+    'dsn' => 'mysql:host=localhost;dbname=yii2basic',
+    'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
 ];
